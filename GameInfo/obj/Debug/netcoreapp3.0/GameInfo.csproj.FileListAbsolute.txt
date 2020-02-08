@@ -1,0 +1,11 @@
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\bin\Debug\netcoreapp3.0\GameInfo.exe
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\bin\Debug\netcoreapp3.0\GameInfo.deps.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\bin\Debug\netcoreapp3.0\GameInfo.runtimeconfig.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\bin\Debug\netcoreapp3.0\GameInfo.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\bin\Debug\netcoreapp3.0\GameInfo.dll
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\bin\Debug\netcoreapp3.0\GameInfo.pdb
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\obj\Debug\netcoreapp3.0\GameInfo.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\obj\Debug\netcoreapp3.0\GameInfo.AssemblyInfo.cs
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\obj\Debug\netcoreapp3.0\GameInfo.dll
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\obj\Debug\netcoreapp3.0\GameInfo.pdb
+C:\Users\Elli\source\repos\Exam 08.11.2019\GameInfo\obj\Debug\netcoreapp3.0\GameInfo.csprojAssemblyReference.cache

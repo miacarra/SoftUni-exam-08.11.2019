@@ -1,0 +1,11 @@
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\obj\Debug\netcoreapp3.0\GroupStage.csprojAssemblyReference.cache
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\obj\Debug\netcoreapp3.0\GroupStage.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\obj\Debug\netcoreapp3.0\GroupStage.AssemblyInfo.cs
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\bin\Debug\netcoreapp3.0\GroupStage.exe
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\bin\Debug\netcoreapp3.0\GroupStage.deps.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\bin\Debug\netcoreapp3.0\GroupStage.runtimeconfig.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\bin\Debug\netcoreapp3.0\GroupStage.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\bin\Debug\netcoreapp3.0\GroupStage.dll
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\bin\Debug\netcoreapp3.0\GroupStage.pdb
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\obj\Debug\netcoreapp3.0\GroupStage.dll
+C:\Users\Elli\source\repos\Exam 08.11.2019\GroupStage\obj\Debug\netcoreapp3.0\GroupStage.pdb

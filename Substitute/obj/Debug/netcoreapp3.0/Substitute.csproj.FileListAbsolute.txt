@@ -1,0 +1,11 @@
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\bin\Debug\netcoreapp3.0\Substitute.exe
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\bin\Debug\netcoreapp3.0\Substitute.deps.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\bin\Debug\netcoreapp3.0\Substitute.runtimeconfig.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\bin\Debug\netcoreapp3.0\Substitute.runtimeconfig.dev.json
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\bin\Debug\netcoreapp3.0\Substitute.dll
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\bin\Debug\netcoreapp3.0\Substitute.pdb
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\obj\Debug\netcoreapp3.0\Substitute.csprojAssemblyReference.cache
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\obj\Debug\netcoreapp3.0\Substitute.AssemblyInfoInputs.cache
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\obj\Debug\netcoreapp3.0\Substitute.AssemblyInfo.cs
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\obj\Debug\netcoreapp3.0\Substitute.dll
+C:\Users\Elli\source\repos\Exam 08.11.2019\Substitute\obj\Debug\netcoreapp3.0\Substitute.pdb
